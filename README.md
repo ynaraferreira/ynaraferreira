@@ -1,16 +1,21 @@
-### Hi there 👋
+## 👋 Hi, I'm Ynara Ferreira
 
-<!--
-**ynaraferreira/ynaraferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with experience in **Business Intelligence, ETL and data integration**, working with dashboards, indicators and data-driven decision support.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- SQL (PostgreSQL, SQL Server, BigQuery)
+- Python (Pandas, NumPy)
+- Power BI, Looker Studio
+- ETL, Data Modeling, Analytics
+- Git, Automation and APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Focus
+Currently focused on growing towards **Data Engineering and Analytics Engineering**, building structured data pipelines and scalable solutions.
+
+### 📂 Featured Projects
+Check my repositories to see projects related to:
+- Data analysis and ETL
+- Automation and integrations
+- Academic projects (sensors and systems)
+
+📫 **LinkedIn:** https://linkedin.com/in/ynara-ferreira
