@@ -3,7 +3,7 @@
 Data Analyst with experience in **Business Intelligence, ETL, and data integration**, currently transitioning into **Data Engineering**.  
 I work with dashboards, KPIs and data-driven decision support, and I am now focused on building **data pipelines and scalable data solutions**.
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Data & Analytics**
 - SQL (PostgreSQL, SQL Server, BigQuery)
