@@ -1,52 +1,34 @@
-# Hi, I'm Ynara Ferreira 👋
+Hi, I'm Ynara Ferreira 👋
 
-I am a Data Professional with a solid background in Computer Engineering, passionate about transforming raw data into reliable corporate assets. 
+I'm a Business Intelligence Analyst with a solid background in Computer Engineering, passionate about transforming raw data into reliable business assets. I work across the full data-to-decision cycle — from ingestion and ETL to dimensional modeling and executive dashboards — combining engineering logic with business context to deliver insights that support strategic decisions.
 
-With proven experience in **Business Intelligence, ETL pipelines, and Data Modeling**, I specialize in bridging the gap between raw data infrastructure and high-impact business decisions. My analytical background gives me a deep understanding of how data is consumed, which drives my current focus on building robust, scalable, and quality-centric **Data Engineering** solutions.
+🛠️ Tech Stack
+Analytics & Business Intelligence
+Visualization: Power BI, Looker Studio
+Analytics Languages: DAX, Power Query (M Language)
+Business Acumen: KPI & metrics design, logistics and operational data tracking
 
----
+Data & ETL
+Languages: Python (Pandas, NumPy, PyArrow), SQL (PostgreSQL, SQL Server, BigQuery)
+Data Processing: DuckDB, Parquet, ETL/ELT pipelines
+Modeling: Dimensional Modeling (Star Schema, Fact & Dimension tables), Data Quality Validation
 
-## 🛠️ Tech Stack
+Automation & Tools
+Git/GitHub, API Integrations, Workflow Automation (N8N, Make, Zapier, Google AppSheet)
 
-### Data Engineering & Infrastructure
-- **Languages:** Python (Pandas, NumPy, PyArrow, Requests), SQL (PostgreSQL, SQL Server, BigQuery), JavaScript / TypeScript.
-- **Data Processing & OLAP:** DuckDB, Parquet, ETL/ELT Pipelines.
-- **Modeling & Architecture:** Dimensional Modeling (Star Schema, Fact & Dimension tables), Data Quality Validation, Composite Keys.
-- **DevOps & Automation:** Git/GitHub, API Integrations, Workflow Automation (n8n, Make, Zapier, AppSheet).
 
-### Analytics & Business Intelligence
-- **Data Visualization:** Power BI, Looker Studio.
-- **Analytics Languages:** DAX, M Language.
-- **Business Acumen:** Metrics & KPIs design, Logistics & Operational data tracking.
+🚀 Featured Project
+✈️ Brazilian Civil Aviation Open Data ETL Pipeline
 
----
+An end-to-end data pipeline built to ingest, clean, and model official public aviation data from ANAC/SIROS — structured for consumption by BI tools.
 
-## 🚀 Featured Project
+Technologies: Python, Pandas, DuckDB, Parquet, SQL
+Key Deliverables: 3-layer data architecture (Raw, Staging, Curated), Star Schema dimensional modeling, and automated data quality checks across 57,000+ records
 
-### ✈️ [Brazilian Civil Aviation Open Data ETL Pipeline](LINK_DO_SEU_REPOSITORIO_AQUI)
-An end-to-end ETL pipeline built to ingest, clean, and model official public aviation data from ANAC/SIROS.
-- **Technologies:** Python, Pandas, DuckDB, Parquet, PyArrow, SQL.
-- **Key Deliverables:** Implementation of a 3-layer data architecture (Raw, Staging, Curated), Star Schema dimensional modeling, and robust automated Data Quality checks processing over 57,000 records.
 
----
+🎓 Background
+Bachelor's in Computer Engineering (in progress) — brings a strong logical and data-structure foundation to how I design analytical models and validate data quality.
 
-## 🎯 Current Focus & Roadmap
-
-I am continuously evolving my technical stack toward advanced data infrastructure. My active learning roadmap includes:
-- **Orchestration:** Apache Airflow / Prefect.
-- **Data Transformation:** dbt (Data Build Tool).
-- **Containers & Cloud:** Docker, AWS S3, and Google Cloud Storage.
-
----
-
-## ⚙️ Core Engineering Background
-Due to my Bachelor's degree in Computer Engineering, I also have academic and practical experience with:
-- Data Structures and Logic of Programming.
-- Embedded Systems, C/C++, and hardware-to-software data ingestion using sensors.
-
----
-
-## 🤝 Connect with Me
-
-- **LinkedIn:** [linkedin.com/in/ynara-ferreira](https://linkedin.com/in/ynara-ferreira)
-- **Email:** ynaralopes@outlook.com
+🤝 Connect with Me
+LinkedIn: linkedin.com/in/ynara-ferreira
+Email: ynaralopes@outlook.com
